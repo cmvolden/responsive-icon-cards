@@ -11,6 +11,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   line-height: 1.5;
+  font-family: sans-serif;
 }
 
 *, *::before, *::after {
@@ -18,5 +19,13 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: .75em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+img {
+  width: 50px;
 }
